@@ -10,8 +10,8 @@
 
 An open passport spread of the **Republic of Tefraya**, a fictional volcanic island republic — the passport of **Mara Ilse Velkora**, a registered Ashfall Observer (ST-2) from Port Caldera.
 
-- **Data page (p. 2):** volcano-and-waves emblem, photorealistic portrait, full biographic fields, holder's signature, observations box with ghost image, and a 2×44-character MRZ whose check digits are computed in code with the ICAO 9303 algorithm (weights 7-3-1). Passport no. TF284917, issued 14 FEB 2023, expiry 13 FEB 2033.
-- **Visas page (p. 3):** endorsement — *"Landing permitted only while the ash advisory is GREEN; crater road closed during eruption alerts"* — an **ASHFALL LEVY PAID 12 TEF** fee stamp, a short-stay visa sticker from the fictional Republic of Selmara (No. SEL 552 091, barcode), and 9 entry/exit stamps in chronological order (02 MAR 2023 – 28 MAY 2025), alternating entry and exit, from Tefraya, Selmara, Orvind and Talbrek. No stamp predates the passport.
+- **Data page (p. 2):** volcano, smoke, waves and compass emblem, photorealistic portrait, full biographic fields, holder's signature, observations box with ghost image, and a 2×44-character MRZ whose field check digits are computed in code with the ICAO 9303 algorithm (weights 7-3-1). Passport no. TF284917, issued 14 FEB 2023, expiry 13 FEB 2033.
+- **Visas page (p. 3):** endorsement — *"Landing permitted only while the ash advisory is GREEN; crater road closed during eruption alerts"* — an **ASHFALL LEVY PAID 12 TEF** fee stamp in its own clear zone at the top right, a short-stay visa sticker from the fictional Republic of Selmara (No. SEL 552 091, barcode), and 12 entry/exit stamps in chronological order (02 MAR 2023 – 29 MAY 2025), alternating entry and exit, from Tefraya, Selmara, Orvind and Talbrek, laid out in a 3×4 grid with verified clear gaps between every stamp (rotation ≤ 3°). No stamp predates the passport. The ASH DESK 29 MAY 2025 stamp sits clear of the ash-advisory strip below it.
 - Faint guilloche watermark across both pages; all country, place and neighbour names are invented.
 
 ## Run it
